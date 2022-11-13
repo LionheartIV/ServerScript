@@ -1,0 +1,7 @@
+{
+    "host" : "localhost",
+    "database" : "apiserverscript",
+    "user" : "apiuser",
+    "password" : "123"
+
+}
